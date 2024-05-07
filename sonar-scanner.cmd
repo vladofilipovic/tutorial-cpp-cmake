@@ -1,0 +1,1 @@
+sonar-scanner -Dsonar.projectKey=universal-optimizer-sci-cpp -Dsonar.sources=./src -Dsonar.host.url=http://127.0.0.1:9000 -Dsonar.token=sqp_d4ca37ba21b2e3225ed0d81f9ca98f370bd350ee
